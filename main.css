@@ -44,7 +44,7 @@ table {
     
 } 
 body {
-    background-image:  url(88065930_10221500546084004_5656664691259211776_o.jpg);
+    background-image:  url(assets/minion.jpg);
     background-repeat: no-repeat;
     background-size:cover;
 }
@@ -53,15 +53,15 @@ body {
     font-family: 'Butterfly Kids', cursive;
     text-align: center;
     line-height: 110px;
-    padding-top: 60px;
+    padding-top: 80px;
     opacity: 0.8;
-    color: deeppink;
+    color: red;
  
     
 }
 
 h1 {
-    font-size: 160px;
+    font-size: 190px;
 }
 
 h2 {
@@ -71,27 +71,27 @@ h2 {
 div.background {
   width:650px; /* doboz szélessége */
   height:50%; /* doboz magassága */
-  border:1px solid; /* külső keret */
+  border:0px solid; /* külső keret */
   border-style: dashed;
   color: white;
 }
 div.transbox {
   width:550px; /* belső doboz szélessége */
   height:100%; /* belső doboz magassága */
-  margin:30px 50px;
+  margin:20px 10px;
   background-color:#ffffff; /* belső doboz háttér színe */
   border-style: dashed;
-  border:1px solid; /* belső doboz kerete */
+  border:10px solid; /* belső doboz kerete */
   color: white;
   opacity:0.8;
   filter:alpha(opacity=80); /* For IE8 and earlier */
 }
 div.transbox p {
-  margin:30px 40px;
+  margin:20px 40px;
   font-weight:normal;
   font-family: 'Chilanka', cursive; /* betűtípus */
   font-size: 25px; /*betűméret*/
-  color:#000000; /* betűszín */
+  color: green; /* betűszín */
 }
 
 
